@@ -2,10 +2,10 @@
  * uiCropper v1.0.9
  * https://crackerakiua.github.io/ui-cropper/
  *
- * Copyright (c) 2019 Alex Kaul
+ * Copyright (c) 2020 Alex Kaul
  * License: MIT
  *
- * Generated at Monday, May 20th, 2019, 10:17:03 PM
+ * Generated at Monday, July 13th, 2020, 2:17:40 PM
  */
 (function() {
 angular.module('uiCropper', []);
