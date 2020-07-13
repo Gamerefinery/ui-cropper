@@ -5,7 +5,7 @@
  * Copyright (c) 2020 Alex Kaul
  * License: MIT
  *
- * Generated at Monday, July 13th, 2020, 2:17:40 PM
+ * Generated at Monday, July 13th, 2020, 2:37:39 PM
  */
 (function() {
 angular.module('uiCropper', []);
